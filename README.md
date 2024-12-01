@@ -1,7 +1,7 @@
 ﻿# 3D-Cloth-Customization
 The project aims to customize clothes so that the customer can create a piece that suits his own taste
 
-**🔶Features:**
+**🔶Features**
 
 1-Possibility of changing the color of the T-shirt
 
@@ -23,8 +23,10 @@ The project aims to customize clothes so that the customer can create a piece th
 
 All of the previous features can be easily done using the computer mouse
 
-**🔶Get Started:**
+**🔶Getting Started**
 
 1-Clone this repository
+
 2-Install dependencies: npm install
+
 3-Start the development server: npm run dev
