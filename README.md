@@ -3,7 +3,9 @@ The project aims to customize clothes so that the customer can create a piece th
 
 **🔶Features:**
 1-Possibility of changing the color of the T-shirt
+
 2-Possibility of changing the fabric
+
 3-Possibility of downloading a specific fabric and trying it
 3-Possibility of choosing the part of the fabric to be displayed
 4-Possibility of placing or downloading a logo
